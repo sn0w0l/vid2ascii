@@ -1,0 +1,10 @@
+build/
+input/
+output/
+vid2ascii
+compile_commands.json
+test_runner
+*.d
+*.o
+*.dump
+perf.data

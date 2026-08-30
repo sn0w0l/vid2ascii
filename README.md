@@ -6,8 +6,8 @@ a video.
 
 This a small hobby project that happened to be an interesting
 lession in code generation and optimization on the
-assembly level. You can read about that more when I finish my
-blog post explaining my findings. Stay tuned!
+assembly level. You can read more about that in
+[this blog post](https://snowol.dev/posts/2026-08-18-vid-to-ascii) I wrote.
 
 Although the program does NOT aim to be fully featured or
 production grade and it lacks extensive testing it IS usable.
